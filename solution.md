@@ -2,26 +2,26 @@ Collaborated with: Tanmai Gajula (taga5342@colorado.edu) \
 
 same host  \
 REST API Add Time taken =  2.69807910919  millisecs \
-REST API Image Time taken =  4.89498186111  millisecs
-gRPC Add ('Time taken = ', 0.5667359828948975, ' millisecs')
-gRPC Image ('Time taken = ', 4.434258937835693, ' millisecs')
+REST API Image Time taken =  4.89498186111  millisecs \
+gRPC Add ('Time taken = ', 0.5667359828948975, ' millisecs') \
+gRPC Image ('Time taken = ', 4.434258937835693, ' millisecs') \
 
-Different Hosts same zone : us-central1-a
-REST API Add Time taken =  2.69662594795  millisecs
-REST API Image Time taken =  7.30944895744  millisecs
-gRPC Add ('Time taken = ', 0.571465015411377, ' millisecs')
-gRPC Image ('Time taken = ', 6.90605616569519, ' millisecs')
+Different Hosts same zone : us-central1-a \
+REST API Add Time taken =  2.69662594795  millisecs \
+REST API Image Time taken =  7.30944895744  millisecs \
+gRPC Add ('Time taken = ', 0.571465015411377, ' millisecs') \
+gRPC Image ('Time taken = ', 6.90605616569519, ' millisecs') \
 
-Different zones (server - us-central1-a, client - europe-west3-a)
-REST API Add Time taken =  214.918968916  millisecs
-REST API Image Time taken =  902.453479052  millisecs
-gRPC Add ('Time taken = ', 106.4897289276123, ' millisecs')
-gRPC Image ('Time taken = ', 120.59386587142944, ' millisecs')
+Different zones (server - us-central1-a, client - europe-west3-a) \
+REST API Add Time taken =  214.918968916  millisecs \
+REST API Image Time taken =  902.453479052  millisecs \
+gRPC Add ('Time taken = ', 106.4897289276123, ' millisecs') \
+gRPC Image ('Time taken = ', 120.59386587142944, ' millisecs') \
 
-Network latency using ping command:
-Client to server(localhost): 0.032 millisecs 
-Client to server(same zone): 0.338 millisecs
-Client to server(different zones): 105.5 millisecs
+Network latency using ping command: \
+Client to server(localhost): 0.032 millisecs \ 
+Client to server(same zone): 0.338 millisecs \
+Client to server(different zones): 105.5 millisecs \
 
 
 Observations:
