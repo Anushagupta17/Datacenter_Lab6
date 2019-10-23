@@ -24,7 +24,7 @@ Client to server(same zone): 0.338 millisecs \
 Client to server(different zones): 105.5 millisecs \
 
 
-Observations:
+Observations: \
 
 According to our analysis,gRPC is faster than REST. 
 
