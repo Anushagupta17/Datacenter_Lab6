@@ -1,7 +1,7 @@
-Collaborated with: Tanmai Gajula (taga5342@colorado.edu)
+Collaborated with: Tanmai Gajula (taga5342@colorado.edu) \
 
-same host 
-REST API Add Time taken =  2.69807910919  millisecs
+same host  \
+REST API Add Time taken =  2.69807910919  millisecs \
 REST API Image Time taken =  4.89498186111  millisecs
 gRPC Add ('Time taken = ', 0.5667359828948975, ' millisecs')
 gRPC Image ('Time taken = ', 4.434258937835693, ' millisecs')
@@ -40,7 +40,7 @@ server to efficiently make contact with client to send messages (async response/
 
 One of the biggest differences between REST and gRPC is the format of the payload. REST messages typically 
 contain JSON. This is not a strict requirement, and in theory you can send anything as a response, but in 
-practice the whole REST ecosystem—including tooling, best practices, and tutorials—is focused on JSON. 
+practice the whole REST ecosystemâ€”including tooling, best practices, and tutorialsâ€”is focused on JSON. 
 It is safe to say that, with very few exceptions, REST APIs accept and return JSON. 
 gRPC, on the other hand, accepts and returns Protobuf messages. 
 
